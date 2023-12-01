@@ -1,2 +1,2 @@
-# Sistema-estoque-produ-o
+# Sistema de estoque e produção
 TRABALHO DE CONCLUSÃO DE CURSO - ENGENHARIA DE SOFTWARE - UNICESUMAR
