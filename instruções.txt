@@ -2,6 +2,6 @@ Usuário e senha padrão para login no app.
 Usuário padrão: Jeova
 Senha padrão: jeova123
 
-O EXECUTÁVEL TEM QUE ESTAR LOCALIZADO NO DIRETÓRIO JUNTAMENTO COM A PASTA _Internal, Imagens e o arquivo do banco de dados Sistema_cadastros. Caso contrário deverá alterar o código fonte e realizar as demais alteração para adição de funções ou de tabelas e banco de dados extras.
+O EXECUTÁVEL TEM QUE ESTAR LOCALIZADO NO DIRETÓRIO JUNTAMENTO COM A PASTA _Internal, Imagens e o arquivo do banco de dados Sistema_cadastros. Caso contrário deverá alterar o código fonte e realizar as demais alteração para adição de funções ou de tabelas e banco de dados extras..
 
 COMANDO GERADO NO EXECUTÁVEL CASO DESEJAR CRIAR O EXECUTÁVEL EM UM SISTEMA OPERACIONAL DIFERENTE DO SISTEMA OPERACIONAL WINDOWS: python -m PyInstaller -w --icon='C:\CAMINHO\DO\ICONE\Sistema de Produção e Estoque\Imagens\img3.ico' --add-data 'C:\CAMINHO\DAS\IMAGENS\Sistema de Produção e Estoque\Imagens\*;imagens' --add-data 'C:\CAMINHO\DO\BANCO DE DADOS\Sistema de Produção e Estoque\Sistema_cadastros.db;.' estoqueapp.py
